@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MovieDBWebService</string>
+    <string name="title_example">Jurassic Hunt</string>
+    <string name="release_Example">Relase Date: 2021/09/19</string>
+    <string name="vote_example">3.7</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sumary_example">Resumen de la pelicula</string>
+    <string name="release_info">Release date: %s</string>
+        <string name="vote_avg_info">Vote avg : %s</string>
+</resources>
